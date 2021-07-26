@@ -1,2 +1,1 @@
-# dp203
-Exam DP-203: Data Engineering on Microsoft Azure Crash Course
+# Exam DP-203: Data Engineering on Microsoft Azure Crash Course
