@@ -33,10 +33,6 @@
 
 - [About](#about)
   - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Support](#support)
 - [Project assistance](#project-assistance)
@@ -52,37 +48,17 @@
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions - just the ones relevant to your project.
-
-
+This instructor-led training course prepares you to clear [Exam DP-203: Data Engineering on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203). Exam DP-203 is the prerequisite to earn Microsoft's [Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/) certification.
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
-
-## Getting Started
-
-### Prerequisites
-
-> **[?]**
-> What are the project requirements/dependencies?
-
-### Installation
-
-> **[?]**
-> Proceed to describe how to install and get started with the project.
-
-## Usage
-
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+- Microsoft PowerPoint
+- Techsmith Snagit
+- Microsoft Visual Studio Code
+- Microsoft Azure
+- Azure PowerShell
+- Azure CLI
+- Transact-SQL
 
 ## Roadmap
 
@@ -141,6 +117,4 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
-> **[?]**
-> If your work was funded by any organization or institution, acknowledge their support here.
-> In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
+Thanks to my Pearson editor Laura Lewin for making this course possible. Thanks to Lindsay Ventimiglia and the rest of the O'Reilly team for your awesome hosting skills. Thanks to all my students, past and present - I appreciate each and every one of you.
