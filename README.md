@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/timothywarner/dp203">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo2.png" alt="Logo" width="200" />
+    <img src="docs/images/logo2.png" alt="Logo" width="400" />
   </a>
 </h1>
 
