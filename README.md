@@ -76,7 +76,10 @@ See the [open issues](https://github.com/timothywarner/dp203/issues) for a list 
 Reach out to the maintainer at one of the following places:
 
 - [GitHub issues](https://github.com/timothywarner/dp203/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
-- The email which is located [in GitHub profile](https://github.com/timothywarner)
+- The email which is located [in Tim's GitHub profile](https://github.com/timothywarner)
+- [Twitter](http://twitter.com/techtrainertim)
+- [LinkedIn](https://www.linkedin.com/in/timothywarner)
+- [Website](https://techtrainertim.com/)
 
 ## Project assistance
 
@@ -100,7 +103,7 @@ Thank you for being involved!
 
 The original setup of this repository is by [Tim Warner](https://github.com/timothywarner).
 
-For a full list of all authors and contributors, check [the contributor's page](https://github.com/timothywarner/dp203/contributors).
+For a full list of all authors and contributors, check [the contributors page](https://github.com/timothywarner/dp203/contributors).
 
 ## Security
 
