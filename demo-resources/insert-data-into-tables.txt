@@ -1,0 +1,4 @@
+bcp Course in SampleCourseData -S twdp200managedinstance.95e1eaca0b94.database.windows.net -d dp900database -U tim -P <password> -q -c -t ","
+bcp Person in SamplePersonData -S twdp200managedinstance.95e1eaca0b94.database.windows.net -d dp900database -U tim -P <password> -q -c -t ","
+bcp Student in SampleStudentData -S twdp200managedinstance.95e1eaca0b94.database.windows.net -d dp900database -U tim -P <password> -q -c -t ","
+bcp Credit in SampleCreditData -S twdp200managedinstance.95e1eaca0b94.database.windows.net -d dp900database -U tim -P <password> -q -c -t ","

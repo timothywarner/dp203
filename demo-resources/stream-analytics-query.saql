@@ -1,0 +1,7 @@
+SELECT   system.timestamp AS endtime,
+         dspl             AS sensorname,
+         Count(*)         AS numreadings
+INTO     output
+FROM     inputstream TIMESTAMP by time
+GROUP BY tumblingwindow(minute, 5),
+         dspl
