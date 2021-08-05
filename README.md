@@ -70,9 +70,6 @@ See the [open issues](https://github.com/timothywarner/dp203/issues) for a list 
 
 ## Support
 
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
-
 Reach out to the maintainer at one of the following places:
 
 - [GitHub issues](https://github.com/timothywarner/dp203/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
@@ -110,7 +107,7 @@ For a full list of all authors and contributors, check [the contributors page](h
 Exam DP-203: Data Engineering on Microsoft Azure Crash Course follows good practices of security, but 100% security can't be granted in software.
 Exam DP-203: Data Engineering on Microsoft Azure Crash Course is provided **"as is"** without any **warranty**. Use at your own risk.
 
-_For more info, please refer to the [security](docs/SECURITY.md)._
+_For more info, please refer to the [security policy](docs/SECURITY.md)._
 
 ## License
 
