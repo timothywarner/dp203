@@ -2,7 +2,8 @@
 
 ## Data Storage
 
-
+- Synapse Analytics
+  - table distribution methods
 
 ## Data Processing
 

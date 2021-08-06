@@ -3,48 +3,6 @@
 ## Theoretical Knowledge
 
 * [Azure documentation](https://docs.microsoft.com/en-us/azure/)
-* Data Lake Storage Gen 2 docs
-* Storage account docs
-* Azure Synapse docs
-* Azure Data Factory docs
-* Azure SQL Database docs
-* Cosmos DB docs
-* Azure Databricks docs
-*
-
-## Hands-on Skill Development
-
-* Microsoft Learn
-* [Cloud Academy](https://cloudacademy.com/learning-paths/dp-200-exam-preparation-implementing-an-azure-data-solution-925/)
-* [A Cloud Guru](https://acloudguru.com/course/microsoft-azure-exam-dp-200-implementing-an-azure-data-solution)
-* [Pluralsight](https://www.pluralsight.com/paths/microsoft-azure-data-engineer-dp-200)
-
-## Practice exams
-
-* [MeasureUp DP-200](https://www.measureup.com/dp-200-microsoft-implementing-an-azure-data-solution.html)
-* [Whizlabs DP-200](https://www.whizlabs.com/microsoft-azure-certification-dp-200/)
-
-## About the exam
-
-* [Exam DP-200](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200)
-* [Exam DP-201](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201)
-* [Exam DP-203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
-* [Microsoft certification policies](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
-* [Microsoft certification offers](https://docs.microsoft.com/en-us/learn/certifications/deals)
-* [Pearson VUE testing](https://home.pearsonvue.com/Clients/Microsoft.aspx)
-* [Tim's online testing video](https://www.youtube.com/watch?v=myf6r5nulj0&feature=youtu.be)
-
-
-
-
-
-==================================
-
-# Exam DP-201 Designing an Azure Data Solution Certification Study Blueprint
-
-## Theoretical Knowledge
-
-* [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 * [Data Lake Storage Gen 2 docs](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
 * [Storage account docs](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
 * [Azure Synapse docs](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
@@ -55,23 +13,28 @@
 
 ## Hands-on Skill Development
 
-* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/roles/data-engineer)
-* [Cloud Academy](https://cloudacademy.com/learning-paths/dp-201-exam-preparation-designing-an-azure-data-solution-1-952/)
-* [A Cloud Guru](https://acloudguru.com/course/microsoft-azure-exam-dp-201-designing-an-azure-data-solution)
-* [Pluralsight](https://www.pluralsight.com/paths/azure-data-solution-dp-201)
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/certifications/roles/data-engineer)
+* [Pluralsight](https://app.pluralsight.com/paths/skills/microsoft-exam-dp-203-data-engineering-on-microsoft-azure)
+* A Cloud Guru
+* [Cloud Academy](https://cloudacademy.com/learning-paths/dp-203-exam-preparation-data-engineering-on-microsoft-azure-3191/)
 
 ## Practice exams
 
-* [MeasureUp](https://www.measureup.com/dp-201-microsoft-designing-an-azure-data-solution.html)
-* [Whizlabs](https://www.whizlabs.com/microsoft-azure-certification-dp-201/)
+* MeasureUp
+* [Whizlabs](https://www.whizlabs.com/microsoft-azure-certification-dp-203/)
+* [Tim's MeasureUp vs Whizlabs Comparison Video](https://www.youtube.com/watch?v=_aH4DbpcJWA&t=2s)
+* Tutorials Dojo
+* [Udemy](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)
 
 ## About the exam
 
-* [Exam DP-200](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200)
-* [Exam DP-201](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201)
 * [Exam DP-203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
-* [Microsoft certification policies](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
-* [Microsoft certification offers](https://docs.microsoft.com/en-us/learn/certifications/deals)
-* [Pearson VUE testing](https://home.pearsonvue.com/Clients/Microsoft.aspx)
-* [Tim's online testing video](https://www.youtube.com/watch?v=myf6r5nulj0&feature=youtu.be)
-
+* [Azure Data Engineer Associate certification](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/)
+* [Microsoft Certification Special Offers](https://www.microsoft.com/en-us/learning/offers.aspx)
+* [About Online Exams](https://www.microsoft.com/en-us/learning/online-exams.aspx)
+* [MS Certification Policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
+* [Pearson VUE Grievances](https://home.pearsonvue.com/microsoft/contact)
+* [Tim's online testing helper video](https://www.youtube.com/watch?v=myf6r5nulj0&feature=youtu.be)
+* [Tim's exam registration helper video](https://www.youtube.com/watch?v=FOFWbSYbbVI)
+* [Microsoft Learn blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
+* [Certification Dashboard](https://aka.ms/certdashboard)
