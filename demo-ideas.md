@@ -1,4 +1,12 @@
-# DP-200 Demo Ideas
+# DP-203 Demo Ideas
+
+https://github.com/MicrosoftLearning/DP-203-Data-Engineer
+
+https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase
+
+https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-partition#partition-switching
+
+https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse
 
 ## Azure SQL Database
 
