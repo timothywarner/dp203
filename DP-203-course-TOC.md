@@ -6,6 +6,10 @@
 
 * Blob storage
 * Data Lake storage
+  * Blob access tiering
+    * Lifecycle management
+  * Searchability
+  * File format choice (Avro, CSV, Parquet, Orca)
 * Cosmos DB
   * Partitioning
 * Data ingestion techniques
@@ -13,19 +17,31 @@
 * Synapse
   * SQL Pool
     * Distributions
+      * Partitioning T-SQL
+    * Partition switch and drop
     * Slowly changing dimensions
+      * Types
   * Spark Pool
+* Databricks
+  * Premium SKU for cluster autoscaling
+  * Cluster type (high concurrency)
+  * Load into data frame, transform, write to DLS
 
 ### Design and Implement Data Security
 
 * At-rest data encryption
+  * TDE
+  * Key Vaults
 * Write encrypted data to tables or Parquet files
 * Dynamic Data Masking
+* Data Classification
 * Row-level security
 * Data retention / purge
 * RBAC
+  * Managed identities
   * Resources
   * DLS POSIX ACLs
+* SQL Server and database firewall rules
 
 ## DAY 2
 
@@ -36,19 +52,30 @@
   * Data Factory
   * Synapse pipelines
 * Streaming Data Processing
+  * Streaming Units
   * Event Hub/IoT Hub
   * Stream Analytics
     * Windowing aggregates
+    * DATEDIFF, LAST, LAG and LIMIT DURATION functions
+    * Protobuff deserializer as input
+    * Power BI output
 * Batch processing solutions
   * PolyBase
   * Data Factory
+    * Copy activity
+    * Conditional split and sink transformations
+    * View flow source code
+    * Runtimes
+    * Triggers
 
 ### Monitor and Optimize Data Storage and Data Processing
 
 * Azure Monitor metrics, logs, alerts
 * Monitoring pipelines
+  * ADF run data 45 min; Log Analytics for 2 years
 * Measure query / cluster performance
 * Spark DAG
+* Power BI output
 
 ### DP-203 Exam Strategy
 
