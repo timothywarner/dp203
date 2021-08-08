@@ -8,11 +8,7 @@
 * Data Lake storage
   * Blob access tiering
     * Lifecycle management
-  * Searchability
-  * File format choice (Avro, CSV, Parquet, Orca)
-* Cosmos DB
-  * Partitioning
-* Data ingestion techniques
+    * File format choice (Avro, CSV, Parquet, Orca)
 * HDInsight
 * Synapse
   * SQL Pool
@@ -39,7 +35,7 @@
 * Data retention / purge
 * RBAC
   * Managed identities
-  * Resources
+  * Resources (Synapse Studio > Manage > Access Ctrl)
   * DLS POSIX ACLs
 * SQL Server and database firewall rules
 
