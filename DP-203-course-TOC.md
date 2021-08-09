@@ -38,6 +38,7 @@
   * Resources (Synapse Studio > Manage > Access Ctrl)
   * DLS POSIX ACLs
 * SQL Server and database firewall rules
+* Automatic tuning (server, db level)
 
 ## DAY 2
 
