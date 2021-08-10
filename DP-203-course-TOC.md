@@ -10,6 +10,10 @@
     * Lifecycle management
     * File format choice (Avro, CSV, Parquet, Orca)
 * HDInsight
+* Databricks
+  * Premium SKU for cluster autoscaling
+  * Cluster type (high concurrency)
+  * Load into data frame, transform, write to DLS
 * Synapse
   * SQL Pool
     * Distributions
@@ -18,10 +22,6 @@
     * Slowly changing dimensions
       * Types
   * Spark Pool
-* Databricks
-  * Premium SKU for cluster autoscaling
-  * Cluster type (high concurrency)
-  * Load into data frame, transform, write to DLS
 
 ### Design and Implement Data Security
 
