@@ -10,6 +10,7 @@
 * [Azure SQL Database docs](https://docs.microsoft.com/en-us/azure/azure-sql/database/)
 * [Cosmos DB docs](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 * [Azure Databricks docs](https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks)
+* [Slowly changing dimensions](https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/)
 
 ## Hands-on Skill Development
 
@@ -20,10 +21,9 @@
 
 ## Practice exams
 
-* MeasureUp
+* [MeasureUp Official DP-203 Practice Test](https://www.measureup.com/microsoft-practice-test-dp-203-data-engineering-azure.html)
 * [Whizlabs](https://www.whizlabs.com/microsoft-azure-certification-dp-203/)
 * [Tim's MeasureUp vs Whizlabs Comparison Video](https://www.youtube.com/watch?v=_aH4DbpcJWA&t=2s)
-* Tutorials Dojo
 * [Udemy](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)
 
 ## About the exam
