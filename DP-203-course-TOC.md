@@ -8,7 +8,7 @@
 * Data Lake storage
   * Blob access tiering
     * Lifecycle management
-    * File format choice (Avro, CSV, Parquet, Orca)
+    * File format choice (Avro, CSV, Parquet, ORC)
 * HDInsight
 * Databricks
   * Premium SKU for cluster autoscaling
@@ -39,6 +39,8 @@
   * DLS POSIX ACLs
 * SQL Server and database firewall rules
 * Automatic tuning (server, db level)
+
+AZURE POLICY FOR DATABRICKS AND SYNAPSE
 
 ## DAY 2
 
