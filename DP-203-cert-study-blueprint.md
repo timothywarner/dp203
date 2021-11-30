@@ -11,13 +11,18 @@
 * [Cosmos DB docs](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 * [Azure Databricks docs](https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks)
 * [Slowly changing dimensions](https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/)
+* [Azure Synapse: Copy and Transform Data](https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-sql-data-warehouse?tabs=data-factory)
+* [Azure Databricks: ETL with Scala](https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse)
+* [Microsoft Learn SCD tutorial](https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/)
 
 ## Hands-on Skill Development
 
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/certifications/roles/data-engineer)
+* [Microsoft Official Curriculum DP-203 Labs](https://github.com/MicrosoftLearning/DP-203-Data-Engineer)
 * [Pluralsight](https://app.pluralsight.com/paths/skills/microsoft-exam-dp-203-data-engineering-on-microsoft-azure)
-* A Cloud Guru
+* [A Cloud Guru Hands-On Labs](https://acloudguru.com/hands-on-labs)
 * [Cloud Academy](https://cloudacademy.com/learning-paths/dp-203-exam-preparation-data-engineering-on-microsoft-azure-3191/)
+* [Log Analytics Query Playground](https://portal.loganalytics.io/demo)
 
 ## Practice exams
 

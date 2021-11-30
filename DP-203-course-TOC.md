@@ -106,6 +106,10 @@ AZURE POLICY FOR DATABRICKS AND SYNAPSE
   * Event Hub / IoT Hub
   * Stream Analytics
   * Cosmos
+  * Windowing aggregates
+  * DATEDIFF, LAST, LAG and LIMIT DURATION functions
+  * Protobuff deserializer as input
+  * Streaming units
 
 * Monitoring
   * Log Analytics
