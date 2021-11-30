@@ -14,6 +14,7 @@
 * [Azure Synapse: Copy and Transform Data](https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-sql-data-warehouse?tabs=data-factory)
 * [Azure Databricks: ETL with Scala](https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse)
 * [Microsoft Learn SCD tutorial](https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/)
+* [Raspberry Pi IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)
 
 ## Hands-on Skill Development
 
