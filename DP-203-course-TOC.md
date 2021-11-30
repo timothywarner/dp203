@@ -18,7 +18,7 @@
   * SQL Pool
     * Distributions
       * Partitioning T-SQL
-    * Partition switch and drop
+    * Partition swi5tch and drop
     * Slowly changing dimensions
       * Types
   * Spark Pool
@@ -85,3 +85,32 @@ AZURE POLICY FOR DATABRICKS AND SYNAPSE
 * Renewals
 * Practice exams/questions
 * Hands-on labs
+
+
+
+
+
+=================
+
+* Security
+  * Lifecycle management policy
+  * TDE
+  * DDM
+  * Databricks / Scala
+
+* Batch Processing / Automation
+  * ADF copy activity
+  * Synapse SCD example
+
+* Stream Processing
+  * Event Hub / IoT Hub
+  * Stream Analytics
+  * Cosmos
+
+* Monitoring
+  * Log Analytics
+  * Insights
+
+* Exam Stuff
+  * Online testing tips
+  * Whizlabs practice questions
