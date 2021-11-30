@@ -94,9 +94,10 @@ AZURE POLICY FOR DATABRICKS AND SYNAPSE
 
 * Security
   * Lifecycle management policy
-  * TDE
+  * TDE for storage, SQL, Synapse
   * DDM
-  * Databricks / Scala
+  * Databricks / ScalaAgape112mic
+  *
 
 * Batch Processing / Automation
   * ADF copy activity
@@ -118,3 +119,25 @@ AZURE POLICY FOR DATABRICKS AND SYNAPSE
 * Exam Stuff
   * Online testing tips
   * Whizlabs practice questions
+
+
+
+AZURE POLICY RESOURCES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
