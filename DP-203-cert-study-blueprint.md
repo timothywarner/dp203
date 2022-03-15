@@ -15,6 +15,7 @@
 * [Azure Databricks: ETL with Scala](https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse)
 * [Microsoft Learn SCD tutorial](https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/)
 * [Raspberry Pi IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)
+* [Transact-SQL Language Reference](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15)
 
 ## Hands-on Skill Development
 
@@ -24,6 +25,7 @@
 * [A Cloud Guru Hands-On Labs](https://acloudguru.com/hands-on-labs)
 * [Cloud Academy](https://cloudacademy.com/learning-paths/dp-203-exam-preparation-data-engineering-on-microsoft-azure-3191/)
 * [Log Analytics Query Playground](https://portal.loganalytics.io/demo)
+* [Raspberry Pi Azure IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/#GetStarted)
 
 ## Practice exams
 
