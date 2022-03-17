@@ -18,7 +18,7 @@
   * SQL Pool
     * Distributions
       * Partitioning T-SQL
-    * Partition swi5tch and drop
+    * Partition switch and drop
     * Slowly changing dimensions
       * Types
   * Spark Pool
