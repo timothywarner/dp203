@@ -22,7 +22,6 @@
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/certifications/roles/data-engineer)
 * [Microsoft Official Curriculum DP-203 Labs](https://github.com/MicrosoftLearning/DP-203-Data-Engineer)
 * [Pluralsight](https://app.pluralsight.com/paths/skills/microsoft-exam-dp-203-data-engineering-on-microsoft-azure)
-* [A Cloud Guru Hands-On Labs](https://acloudguru.com/hands-on-labs)
 * [Cloud Academy](https://cloudacademy.com/learning-paths/dp-203-exam-preparation-data-engineering-on-microsoft-azure-3191/)
 * [Log Analytics Query Playground](https://portal.loganalytics.io/demo)
 * [Raspberry Pi Azure IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/#GetStarted)
@@ -30,6 +29,7 @@
 ## Practice exams
 
 * [MeasureUp Official DP-203 Practice Test](https://www.measureup.com/microsoft-practice-test-dp-203-data-engineering-azure.html)
+* [Microsoft Certification Practice Assessments](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 * [Whizlabs](https://www.whizlabs.com/microsoft-azure-certification-dp-203/)
 * [Tim's MeasureUp vs Whizlabs Comparison Video](https://www.youtube.com/watch?v=_aH4DbpcJWA&t=2s)
 * [Udemy](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)

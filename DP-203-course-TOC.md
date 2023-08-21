@@ -1,8 +1,7 @@
 # DP-203 Table of Contents
 
-## DAY 1
 
-### Design and Implement Data Storage
+## Design and Implement Data Storage
 
 * Blob storage
 * Data Lake storage
@@ -23,7 +22,7 @@
       * Types
   * Spark Pool
 
-### Design and Implement Data Security
+## Design and Implement Data Security
 
 * At-rest data encryption
   * TDE
@@ -42,9 +41,7 @@
 
 AZURE POLICY FOR DATABRICKS AND SYNAPSE
 
-## DAY 2
-
-### Design and Develop Data Processing
+## Design and Develop Data Processing
 
 * ELT Data Transformations
   * Spark / Databricks
@@ -67,7 +64,7 @@ AZURE POLICY FOR DATABRICKS AND SYNAPSE
     * Runtimes
     * Triggers
 
-### Monitor and Optimize Data Storage and Data Processing
+## Monitor and Optimize Data Storage and Data Processing
 
 * Azure Monitor metrics, logs, alerts
 * Monitoring pipelines
@@ -86,58 +83,4 @@ AZURE POLICY FOR DATABRICKS AND SYNAPSE
 * Practice exams/questions
 * Hands-on labs
 
-
-
-
-
 =================
-
-* Security
-  * Lifecycle management policy
-  * TDE for storage, SQL, Synapse
-  * DDM
-  * Databricks / ScalaAgape112mic
-  *
-
-* Batch Processing / Automation
-  * ADF copy activity
-  * Synapse SCD example
-
-* Stream Processing
-  * Event Hub / IoT Hub
-  * Stream Analytics
-  * Cosmos
-  * Windowing aggregates
-  * DATEDIFF, LAST, LAG and LIMIT DURATION functions
-  * Protobuff deserializer as input
-  * Streaming units
-
-* Monitoring
-  * Log Analytics
-  * Insights
-
-* Exam Stuff
-  * Online testing tips
-  * Whizlabs practice questions
-
-
-
-AZURE POLICY RESOURCES
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
