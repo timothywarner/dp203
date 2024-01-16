@@ -1,6 +1,5 @@
 -- Let's start with PolyBase, then we'll do COPY
 
--- Create staging table
 CREATE SCHEMA wwi_staging
 
 CREATE TABLE [wwi_staging].[SaleHeap]
