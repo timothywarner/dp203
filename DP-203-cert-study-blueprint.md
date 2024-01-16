@@ -16,6 +16,8 @@
 * [Microsoft Learn SCD tutorial](https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/)
 * [Raspberry Pi IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)
 * [Transact-SQL Language Reference](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15)
+* [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview)
+* [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview)
 
 ## Hands-on Skill Development
 
@@ -28,6 +30,7 @@
 
 ## Practice exams
 
+* ![Alt text](image.png)
 * [MeasureUp Official DP-203 Practice Test](https://www.measureup.com/microsoft-practice-test-dp-203-data-engineering-azure.html)
 * [Microsoft Certification Practice Assessments](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 * [Whizlabs](https://www.whizlabs.com/microsoft-azure-certification-dp-203/)
@@ -37,6 +40,7 @@
 ## About the exam
 
 * [Exam DP-203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
+* [DP-203 exam blueprint](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-203#skills-measured-as-of-november-2-2023)
 * [Azure Data Engineer Associate certification](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/)
 * [Microsoft Certification Special Offers](https://www.microsoft.com/en-us/learning/offers.aspx)
 * [About Online Exams](https://www.microsoft.com/en-us/learning/online-exams.aspx)
