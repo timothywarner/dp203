@@ -1,120 +1,52 @@
-<h1 align="center">
-  <a href="https://github.com/timothywarner/dp203">
-    <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo2.png" alt="Logo" width="400" />
-  </a>
-</h1>
+# Exam DP-203: Data Engineering on Microsoft Azure Certification Study Blueprint
 
-<div align="center">
-  Exam DP-203: Data Engineering on Microsoft Azure Crash Course
-  <br />
-  <a href="#about"><strong>Explore the docs »</strong></a>
-  <br />
-  <br />
-  <a href="https://github.com/timothywarner/dp203/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
-  ·
-  <a href="https://github.com/timothywarner/dp203/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .
-  <a href="https://github.com/timothywarner/dp203/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
-</div>
+## Theoretical Knowledge
 
-<div align="center">
-<br />
+* [Azure documentation](https://docs.microsoft.com/en-us/azure/)
+* [Data Lake Storage Gen 2 docs](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
+* [Storage account docs](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
+* [Azure Synapse docs](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
+* [Azure Data Factory docs](https://docs.microsoft.com/en-us/azure/data-factory/introduction)
+* [Azure SQL Database docs](https://docs.microsoft.com/en-us/azure/azure-sql/database/)
+* [Cosmos DB docs](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+* [Azure Databricks docs](https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks)
+* [Slowly changing dimensions](https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/)
+* [Azure Synapse: Copy and Transform Data](https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-sql-data-warehouse?tabs=data-factory)
+* [Azure Databricks: ETL with Scala](https://docs.microsoft.com/en-us/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse)
+* [Microsoft Learn SCD tutorial](https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/)
+* [Raspberry Pi IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)
+* [Transact-SQL Language Reference](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15)
+* [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview)
+* [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview)
 
-[![license](https://img.shields.io/github/license/timothywarner/dp203.svg?style=flat-square)](LICENSE)
+## Hands-on Skill Development
 
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/timothywarner/dp203/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with hearth by timothywarner](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-timothywarner-ff1414.svg?style=flat-square)](https://github.com/timothywarner)
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/certifications/roles/data-engineer)
+* [Microsoft Official Curriculum DP-203 Labs](https://github.com/MicrosoftLearning/DP-203-Data-Engineer)
+* [Pluralsight](https://app.pluralsight.com/paths/skills/microsoft-exam-dp-203-data-engineering-on-microsoft-azure)
+* [Cloud Academy](https://cloudacademy.com/learning-paths/dp-203-exam-preparation-data-engineering-on-microsoft-azure-3191/)
+* [Log Analytics Query Playground](https://portal.loganalytics.io/demo)
+* [Raspberry Pi Azure IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/#GetStarted)
 
-</div>
+## Practice exams
 
-<details open="open">
-<summary>Table of Contents</summary>
+* ![Alt text](image.png)
+* [MeasureUp Official DP-203 Practice Test](https://www.measureup.com/microsoft-practice-test-dp-203-data-engineering-azure.html)
+* [Microsoft Certification Practice Assessments](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
+* [Whizlabs](https://www.whizlabs.com/microsoft-azure-certification-dp-203/)
+* [Tim's MeasureUp vs Whizlabs Comparison Video](https://www.youtube.com/watch?v=_aH4DbpcJWA&t=2s)
+* [Udemy](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)
 
-- [About](#about)
-  - [Built With](#built-with)
-- [Roadmap](#roadmap)
-- [Support](#support)
-- [Project assistance](#project-assistance)
-- [Contributing](#contributing)
-- [Authors & contributors](#authors--contributors)
-- [Security](#security)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+## About the exam
 
-</details>
-
----
-
-## About
-
-This instructor-led training course prepares you to clear [Exam DP-203: Data Engineering on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203). Exam DP-203 is the prerequisite to earn Microsoft's [Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/) certification.
-
-### Built With
-
-- Microsoft PowerPoint
-- Techsmith Snagit
-- Microsoft Visual Studio Code
-- Microsoft Azure
-- Azure PowerShell
-- Azure CLI
-- Transact-SQL
-
-## Roadmap
-
-See the [open issues](https://github.com/timothywarner/dp203/issues) for a list of proposed features (and known issues).
-
-- [Top Feature Requests](https://github.com/timothywarner/dp203/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/timothywarner/dp203/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/timothywarner/dp203/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
-
-## Support
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub issues](https://github.com/timothywarner/dp203/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
-- The email which is located [in Tim's GitHub profile](https://github.com/timothywarner)
-- [Twitter](http://twitter.com/techtrainertim)
-- [LinkedIn](https://www.linkedin.com/in/timothywarner)
-- [Website](https://techtrainertim.com/)
-
-## Project assistance
-
-If you want to say **thank you** or/and support active development of Exam DP-203: Data Engineering on Microsoft Azure Crash Course:
-
-- Add a [GitHub Star](https://github.com/timothywarner/dp203) to the project.
-- Tweet about the Exam DP-203: Data Engineering on Microsoft Azure Crash Course on your Twitter.
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or personal blog.
-
-Together, we can make Exam DP-203: Data Engineering on Microsoft Azure Crash Course **better**!
-
-## Contributing
-
-First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
-We have set up a separate document containing our [contribution guidelines](docs/CONTRIBUTING.md).
-
-Thank you for being involved!
-
-## Authors & contributors
-
-The original setup of this repository is by [Tim Warner](https://github.com/timothywarner).
-
-For a full list of all authors and contributors, check [the contributors page](https://github.com/timothywarner/dp203/contributors).
-
-## Security
-
-Exam DP-203: Data Engineering on Microsoft Azure Crash Course follows good practices of security, but 100% security can't be granted in software.
-Exam DP-203: Data Engineering on Microsoft Azure Crash Course is provided **"as is"** without any **warranty**. Use at your own risk.
-
-_For more info, please refer to the [security policy](docs/SECURITY.md)._
-
-## License
-
-This project is licensed under the **MIT license**.
-
-See [LICENSE](LICENSE) for more information.
-
-## Acknowledgements
-
-Thanks to my Pearson editor Laura Lewin for making this course possible. Thanks to Lindsay Ventimiglia and the rest of the O'Reilly team for your awesome hosting skills. Thanks to all my students, past and present - I appreciate each and every one of you.
+* [Exam DP-203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
+* [DP-203 exam blueprint](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-203#skills-measured-as-of-november-2-2023)
+* [Azure Data Engineer Associate certification](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/)
+* [Microsoft Certification Special Offers](https://www.microsoft.com/en-us/learning/offers.aspx)
+* [About Online Exams](https://www.microsoft.com/en-us/learning/online-exams.aspx)
+* [MS Certification Policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
+* [Pearson VUE Grievances](https://home.pearsonvue.com/microsoft/contact)
+* [Tim's online testing helper video](https://www.youtube.com/watch?v=myf6r5nulj0&feature=youtu.be)
+* [Tim's exam registration helper video](https://www.youtube.com/watch?v=FOFWbSYbbVI)
+* [Microsoft Learn blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
+* [Certification Dashboard](https://aka.ms/certdashboard)
