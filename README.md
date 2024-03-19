@@ -30,7 +30,6 @@
 
 ## Practice exams
 
-* ![Alt text](image.png)
 * [MeasureUp Official DP-203 Practice Test](https://www.measureup.com/microsoft-practice-test-dp-203-data-engineering-azure.html)
 * [Microsoft Certification Practice Assessments](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 * [Whizlabs](https://www.whizlabs.com/microsoft-azure-certification-dp-203/)
